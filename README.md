@@ -28,10 +28,12 @@ git checkout
 
 ## titulo 4
 
-COMPAÑEROS DE CLASE           _________GITHUB
+**Compañeros de clase :**
 
-Nombre del compañero 1: Carlos_________enlace a github 1: cjalvarez-git#26
+                  **NOMBRE**                           **GITHUB**
 
-Nombre del compañero 2: Jorge _________enlace a github 2: jorgesanchezmg6#26
+Nombre del compañero 1: Carlos_________enlace a github 1: cjalvarez-git
 
-Nombre del compañero 3: Miguel_________enlace a github 3: talusito#26
+Nombre del compañero 2: Jorge _________enlace a github 2: jorgesanchezmg6
+
+Nombre del compañero 3: Miguel_________enlace a github 3: talusito
