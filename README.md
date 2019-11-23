@@ -8,6 +8,8 @@ texto en *cursiva*
 
 texto ~~tachado~~
 
+## titulo 3
+
 git config
 
 git init
