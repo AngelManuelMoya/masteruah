@@ -25,3 +25,13 @@ git diff
 git log
 
 git checkout 
+
+## titulo 4
+
+COMPAÑEROS DE CLASE                     GITHUB
+
+Nombre del compañero 1: Carlos          enlace a github 1: cjalvarez-git
+
+Nombre del compañero 2: Jorge           enlace a github 2: jorgesanchezmg6
+
+Nombre del compañero 3: Miguel          enlace a github 3: talusito
